@@ -1,4 +1,8 @@
 def recursive_binary_search(list, target):
+    """
+    The recursive implementation of the binary search
+    """
+
     if len(list) == 0:
         return False
     else:
