@@ -1,4 +1,9 @@
 def binary_search(list, target):
+    """
+    Returns the index of the target from a list of sorted array
+    Takes O(log n) time
+    """
+
     first = 0
     last = len(list) - 1
 
