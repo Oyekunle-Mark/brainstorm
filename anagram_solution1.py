@@ -1,4 +1,8 @@
 def anagram(s1, s2):
+    """
+    Takes two strings and returns True if they are anagrams
+    Returns False if not.
+    """
     list1 = list(s1)
     list2 = list(s2)
 
