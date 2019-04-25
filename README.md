@@ -1,6 +1,5 @@
-## Introduction to Algorithms
+## Algorithms and Data Structures
 
-These are some python implementation of some popular algorithms and data
+These are some python implementation of popular algorithms and data
 structures.
 
-These programs are from treehouse's courses on Algorithms and Data Structures. 
