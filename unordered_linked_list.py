@@ -70,4 +70,3 @@ class UnorderedList:
       self.head = current.get_next()
     else:
       previous.set_next(current.get_next())
-      
